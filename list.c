@@ -7,7 +7,7 @@ void list_info(List * L) {
     printf("Quantidade de elementos: %d\n", L->n);
     printf("Ponteiro do vetor: %p\n", L->e);
     list_print(L);
-    printf("\n------------------------------------\n");
+    printf("\n----------------------------------\n");
     
 }
 
